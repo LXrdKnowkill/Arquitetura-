@@ -271,7 +271,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #0c370e;
+  border-bottom: 3px solid #9b1212;
 }
 
 @media (min-width: 1024px) {
@@ -639,11 +639,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0c370e;
+  border: 1px solid #9b1212;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0c370e;
+  background-color: #9b1212;
 }
 
 .portfolio-details .portfolio-info {
